@@ -13,7 +13,7 @@ export default function Home(){
                         </button>
                     </div>
                     <div className="main__img--container">
-                        <img src="/src/components/images/smart_resize_re_q4mo.svg" alt="pic" id="main__img" />                    
+                        <img src="/src/components/images/undraw_smart-resize_b2nt.png" alt="pic" id="main__img" />                    
                     </div>
                 </div>
             </div>
