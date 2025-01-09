@@ -17,10 +17,10 @@ function App() {
 
   switch (window.location.pathname) {
     case "/Home":
-      component = <SelectIngredient />;
+      component = <Home />;
       break;
     case "/":
-      component = <Home />;
+      component = <Shop />;
       break;
     case "/Shop":
       component = <Shop />;
